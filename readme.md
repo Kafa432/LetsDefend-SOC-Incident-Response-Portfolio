@@ -19,7 +19,7 @@ Through hands-on alert handling on LetsDefend, I actively develop and practice t
 ---
 
 ## 📊 Operational Metrics (Live Track)
-* **Total Simulated Alerts Solved:** *[Update number, e.g., 5+]*
+* **Total Simulated Alerts Solved:** 
 * **Core Platform:** LetsDefend Blue Team Operations & Incident Response Workflow
 * **Availability:** **100% Remote / Full-Time Availability** with flexible shift hours (including night rotations).
 
