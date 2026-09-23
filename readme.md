@@ -18,15 +18,6 @@ Through hands-on alert handling on LetsDefend, I actively develop and practice t
 
 ---
 
-## 📂 Portfolio Structure
-The case studies are categorized by specific attack vectors. Each write-up documents the alert context, dynamic investigations, and final containment actions:
-
-* **[📂 Phishing Analysis](./Phishing-Analysis/)** - Investigating malicious email headers, identifying fake login portals, and tracking C2 domain connections.
-* **[📂 Malware Analysis](./Malware-Analysis/)** - Documenting unauthorized file executions, parsing registry modifications, and tracking trojan activity.
-* **[📂 Log Audits & Brute Force](./Brute-Force-Logins/)** - Identifying anomalous authentication attempts and investigating web-based exploitation logs.
-
----
-
 ## 📊 Operational Metrics (Live Track)
 * **Total Simulated Alerts Solved:** *[Update number, e.g., 5+]*
 * **Core Platform:** LetsDefend Blue Team Operations & Incident Response Workflow
